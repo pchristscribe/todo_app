@@ -1,0 +1,11 @@
+<h2>Tasks</h2>
+<form method="POST" action=" "{url 'home' %}">
+    {%csrf token %}
+    {{form}}
+</form>
+
+<ul>
+    {for task in task_list%}
+    <li> {{task.description}}</li>
+    {%end for%}
+</ul>
