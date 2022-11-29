@@ -1,0 +1,16 @@
+h2 {
+    font-size:3em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+}
+li {
+    color: rgb(87, 8, 118);
+    font-size: 2em;
+}
+body {
+    background:  white url("images/background.png");
+}
+
+form {
+    font-size: 2em;
+}
