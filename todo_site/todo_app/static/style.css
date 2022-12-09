@@ -1,16 +1,16 @@
 h2 {
-    font-size:3em;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight:bold;
 }
 li {
     color: rgb(87, 8, 118);
-    font-size: 2em;
 }
 body {
-    background:  white url("images/background.png");
+    background:  rgb(170, 209, 238);
 }
-
-form {
-    font-size: 2em;
-}
+a:link {
+    color: rgb(11, 168, 30);
+  }
+  a:visited {
+    color: rgb(162, 76, 113);
+  }
